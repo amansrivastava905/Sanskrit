@@ -9,4 +9,4 @@ const CompetePage = () => {
     )
 }
 
-export default CompetePage
+export default CompetePage;
